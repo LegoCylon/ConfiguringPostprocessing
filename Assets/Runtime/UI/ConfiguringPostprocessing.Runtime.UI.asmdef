@@ -1,7 +1,7 @@
 {
-    "name": "Gray.Runtime.PostProcessing",
+    "name": "ConfiguringPostprocessing.Runtime.UI",
     "references": [
-        "GUID:d60799ab2a985554ea1a39cd38695018"
+        "GUID:53d14bcd1c2540cca0758d29084ed449"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
